@@ -1,0 +1,4 @@
+https://answers.unity.com/questions/1022086/reading-serial-data-in-unity-from-android-app.html
+
+See if not compatable:
+https://play.google.com/store/apps/details?id=com.techbitar.android.sensoduino
