@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/DAQRI/_Example Scenes/VIO Example.unity
+- path: Assets/testscene.unity
   isLoaded: 1
   isActive: 1
